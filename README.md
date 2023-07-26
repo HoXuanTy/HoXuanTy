@@ -36,6 +36,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=.net&logoColor=512BD4" alt=".NET logo" title=".NET" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=#F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Adobe Photoshop-282C34?logo=adobephotoshop&logoColor=#31A8FF" alt="Adobe Photoshop logo" title="Adobe Photoshop" height="25" /></span>
+&nbsp;
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
